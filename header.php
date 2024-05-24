@@ -28,4 +28,6 @@
 	<link rel="stylesheet" type="text/css" href="css/nunito-font.css">
 	<!-- Main Style Css -->
 	<link rel="stylesheet" href="css/register.css" />
+
+  <link rel="shortcut icon" href="images/icon.png" type="images/x-icon">
   </head>
